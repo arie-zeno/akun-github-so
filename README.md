@@ -15,6 +15,7 @@
 | 1710131310023 | MUHAMMAD ARYA FADILLAH | https://github.com/aryafdllh |
 | 2110131220017 | DIFANA NANDA PRIDHASILA ZEIN | https://github.com/nandaazein |
 | 2110131110004 | SOPIA REFALDI | https://github.com/Srefaldi |
+| 2110131220008 | Risma Wulandari | https://github.com/RismaWulandarii |
 
 ---
 
@@ -35,7 +36,7 @@
 15. TIO EZEKIEL
 16. YULIANA
 17. NAILA HASANAH
-18. RISMA WULANDARI
+18. [x] RISMA WULANDARI
 19. SESILIA MIRANDA
 20. EGYN TERESCOVA NADIA
 21. DELPHIA ARYANA
