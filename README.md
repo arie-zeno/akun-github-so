@@ -13,7 +13,7 @@
 | 2110131310001 | Ari Yono | https://github.com/arie-zeno |
 | 2110131110003 | Ady Mutalib | https://github.com/adymutalib |
 | 1710131310023 | MUHAMMAD ARYA FADILLAH | https://github.com/aryafdllh |
-
+| 2110131210005 | MUHAMMAD NAJWAN NUR IMAN | https://github.com/NajwannurIman |
 
 1. AHMAD RAYHANSYAH 
 2. [x] ADY MUTALIB
@@ -26,7 +26,7 @@
 9. Khoyrur Roykhan
 10. MUHAMMAD RAMADHANI
 11. M. GYMNASTIAR
-12. MUHAMMAD NAJWAN NUR IMAN
+12. [X] MUHAMMAD NAJWAN NUR IMAN
 13. WILLY NURGIAN
 14. FIKRI AL FAYYEDH
 15. TIO EZEKIEL
