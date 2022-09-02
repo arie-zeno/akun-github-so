@@ -19,7 +19,7 @@
 | 2110131120006 | Maysarah | https://github.com/maysraah |
 | 2110131210003 | Muhammad Ramadhani | https://github.com/Madhan215 |
 | 2110131220020 | FATIMAH AZZAHRA MAULIDA | https://github.com/xsjtsra |
-| 2110131220001 | Yuliana | https://github.com/yuliana-ulm |
+| 2110131220001 | YULIANA | https://github.com/yuliana-ulm |
 | 2110131320006 | MAISYA PUSPITA SARI | https://github.com/maisyaapuspitaa |
 | 2110131220011 | EGYN TERESCOVA NADIA | https://github.com/egynnadia |
 | 2110131220012 | Delphia Aryana | https://github.com/DelphiaAryana |
