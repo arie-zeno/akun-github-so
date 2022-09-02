@@ -30,6 +30,7 @@
 | 2110131210006 | WILLY NURGIAN | https://github.com/wil17 |
 | 2110131220013 | Iif Alifah | https://github.com/IifAlifah |
 | 2110131120005 | JULITA HASANAH | https://github.com/JulitaHasanah |
+| 2110131210005 | MUHAMMAD NAJWAN NUR IMAN | https://github.com/NajwannurIman |
 
 
 
@@ -47,7 +48,7 @@
 9. Khoyrur Roykhan
 10. [x] MUHAMMAD RAMADHANI
 11. M. GYMNASTIAR
-12. MUHAMMAD NAJWAN NUR IMAN
+12. [x] MUHAMMAD NAJWAN NUR IMAN
 13. [x] WILLY NURGIAN
 14. FIKRI AL FAYYEDH
 15. TIO EZEKIEL
