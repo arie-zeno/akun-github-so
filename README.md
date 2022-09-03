@@ -47,7 +47,7 @@
 | 2110131310002 | Khairul Fuad | https://github.com/khairulfuad09 |
 | 2110131310003 | FERZY TRIWARSANA PUTRA | https://github.com/ferzytriwarsanaputra |
 | 2110131210004 | M. GYMNASTIAR | https://github.com/Agim-dudu |
-
+| 2110131310005 | AQSHAL HIDAYAT YAHYA | https://github.com/Aqshalhy |
 
 
 
@@ -84,7 +84,7 @@
 28. [x] KHAIRUL FUAD
 29. [x] FERZY TRIWARSANA PUTRA
 30. [x] M. ASPI RAIHAN
-31. AQSHAL HIDAYAT YAHYA
+31. [x] AQSHAL HIDAYAT YAHYA
 32. [x] MUHAMMAD RIZKY AL FARABI
 33. [x] SAIPUL
 34. [x] MAISYA PUSPITA SARI
