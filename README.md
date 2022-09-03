@@ -37,13 +37,23 @@
 | 2110131120007 | Nurhaliza | https://github.com/nurhalizach |
 | 2110131220007 | Naila Hasanah | https://github.com/Nailahasanah |
 | 2110131210014 | FIKRI AL FAYYEDH | https://github.com/FikriALFayyedh |
+| 2010131210020 | AHMAD RAYHANSYAH | https://github.com/ReyhanNadie |
+| 2110131310008 | Saipul | https://github.com/SAIPUL21/saipul |
+| 2110131220015 | MEYDA WIKAROMAH | https://github.com/MeydaWikaromah |
+| 2110131210002 | Khoyrur Roykhan | https://github.com/KhoyrurRoykhan |
+| 1810131220025 | SITI NUR HIDAYAH | https://github.com/dayahsnh |
+| 2110131210018 | Tio Ezekiel | https://github.com/ezkl-t |
+| 2110131310005 | M. ASPI RAIHAN | https://github.com/aspiraihan12 |
+| 2110131310002 | Khairul Fuad | https://github.com/khairulfuad09 |
+| 2110131310003 | FERZY TRIWARSANA PUTRA | https://github.com/ferzytriwarsanaputra |
+
 
 
 
 
 ---
 
-1. AHMAD RAYHANSYAH 
+1. [x] AHMAD RAYHANSYAH 
 2. [x] ADY MUTALIB
 3. [x] SOPIA REFALDI
 4. [x] PUTRI TARI LESTARI
@@ -51,13 +61,13 @@
 6. [x] MAYSARAH 
 7. [x] NURHALIZA
 8. [x] RISALATUL HUSNA
-9. Khoyrur Roykhan
+9. [x] Khoyrur Roykhan
 10. [x] MUHAMMAD RAMADHANI
 11. M. GYMNASTIAR
 12. [x] MUHAMMAD NAJWAN NUR IMAN
 13. [x] WILLY NURGIAN
 14. [x] FIKRI AL FAYYEDH
-15. TIO EZEKIEL
+15. [x] TIO EZEKIEL
 16. [x] YULIANA
 17. [x] NAILA HASANAH
 18. [x] RISMA WULANDARI
@@ -65,20 +75,20 @@
 20. [x] EGYN TERESCOVA NADIA
 21. [x] DELPHIA ARYANA
 22. [x] IIF ALIFAH
-23. MEYDA WIKAROMAH
+23. [x] MEYDA WIKAROMAH
 24. [x] ALFIKA NURFADIA
 25. [x] DIFANA NANDA PRIDHASILA ZEIN
 26. [x] FATIMAH AZZAHRA MAULIDA
 27. [x] ARI YONO
-28. KHAIRUL FUAD
-29. FERZY TRIWARSANA PUTRA
-30. M. ASPI RAIHAN
+28. [x] KHAIRUL FUAD
+29. [x] FERZY TRIWARSANA PUTRA
+30. [x] M. ASPI RAIHAN
 31. AQSHAL HIDAYAT YAHYA
 32. [x] MUHAMMAD RIZKY AL FARABI
-33. SAIPUL
+33. [x] SAIPUL
 34. [x] MAISYA PUSPITA SARI
 35. [x] ANA MARIA PARASANTI
 36. [x] ADELIA ERLYN NOR CANDRA PRASETYANA
 37. [x] MUHAMMAD ARYA FADILLAH
-38. SITI NUR HIDAYAH
+38. [x] SITI NUR HIDAYAH
 39. MUHAMMAD FADIL HIDAYAT
