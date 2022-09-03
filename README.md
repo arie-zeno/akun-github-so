@@ -46,6 +46,7 @@
 | 2110131310005 | M. ASPI RAIHAN | https://github.com/aspiraihan12 |
 | 2110131310002 | Khairul Fuad | https://github.com/khairulfuad09 |
 | 2110131310003 | FERZY TRIWARSANA PUTRA | https://github.com/ferzytriwarsanaputra |
+| 2110131210004 | M. GYMNASTIAR | https://github.com/Agim-dudu |
 
 
 
@@ -63,7 +64,7 @@
 8. [x] RISALATUL HUSNA
 9. [x] Khoyrur Roykhan
 10. [x] MUHAMMAD RAMADHANI
-11. M. GYMNASTIAR
+11. [x] M. GYMNASTIAR
 12. [x] MUHAMMAD NAJWAN NUR IMAN
 13. [x] WILLY NURGIAN
 14. [x] FIKRI AL FAYYEDH
@@ -91,4 +92,3 @@
 36. [x] ADELIA ERLYN NOR CANDRA PRASETYANA
 37. [x] MUHAMMAD ARYA FADILLAH
 38. [x] SITI NUR HIDAYAH
-39. MUHAMMAD FADIL HIDAYAT
