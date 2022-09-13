@@ -5,49 +5,49 @@
     - Dr. Harja Santana Purba, M.Kom.
     - Novan Alkaf Bahraini Saputra, S.Kom., M.T.
 - **Kuliah** Selasa, Jam 13.00 - 14.40, Ruang F. Hasan
-- **Praktikum** Jum'at, Jam 10.30 - 12.10 ( Lab. Pilkom)
+- **Praktikum** Selasa, Jam 16.20 - 18.00 ( Lab. Pilkom)
 
 
-| NIM | Nama | Link |
-| ----------- | :---------: | :---------- |
-| 2110131310001 | Ari Yono | https://github.com/arie-zeno |
-| 2110131110003 | Ady Mutalib | https://github.com/adymutalib |
-| 1710131310023 | MUHAMMAD ARYA FADILLAH | https://github.com/aryafdllh |
-| 2110131220017 | DIFANA NANDA PRIDHASILA ZEIN | https://github.com/nandaazein |
-| 2110131110004 | SOPIA REFALDI | https://github.com/Srefaldi |
-| 2110131220008 | Risma Wulandari | https://github.com/RismaWulandarii |
-| 2110131120006 | Maysarah | https://github.com/maysraah |
-| 2110131210003 | Muhammad Ramadhani | https://github.com/Madhan215 |
-| 2110131220020 | FATIMAH AZZAHRA MAULIDA | https://github.com/xsjtsra |
-| 2110131220001 | YULIANA | https://github.com/yuliana-ulm |
-| 2110131320006 | MAISYA PUSPITA SARI | https://github.com/maisyaapuspitaa |
-| 2110131220011 | EGYN TERESCOVA NADIA | https://github.com/egynnadia |
-| 2110131220012 | Delphia Aryana | https://github.com/DelphiaAryana |
-| 2110131120002 | PUTRI TARI LESTARI | https://github.com/putritta06 |
-| 2110131310007 | MUHAMMAD RIZKY AL FARABI | https://github.com/rizkyfarabi03 |
-| 2110131120008 | RISALATUL HUSNA | https://github.com/RisalatulHusna |
-| 2110131220016 | ALFIKA NURFADIA | https://github.com/AlfikaNurfadia |
-| 2110131210006 | WILLY NURGIAN | https://github.com/wil17 |
-| 2110131220013 | Iif Alifah | https://github.com/IifAlifah |
-| 2110131120005 | JULITA HASANAH | https://github.com/JulitaHasanah |
-| 2110131210005 | MUHAMMAD NAJWAN NUR IMAN | https://github.com/NajwannurIman |
-| 2110131320010 | ADELIA ERLYN NOR CANDRA PRASETYANA | https://github.com/adeliaerlyn |
-| 2110131220010 | SESILIA MIRANDA | https://github.com/sesiliamiranda |
-| 2110131320009 | Ana Maria Parasanti | https://github.com/anamria |
-| 2110131120007 | Nurhaliza | https://github.com/nurhalizach |
-| 2110131220007 | Naila Hasanah | https://github.com/Nailahasanah |
-| 2110131210014 | FIKRI AL FAYYEDH | https://github.com/FikriALFayyedh |
-| 2010131210020 | AHMAD RAYHANSYAH | https://github.com/ReyhanNadie |
-| 2110131310008 | Saipul | https://github.com/SAIPUL21/saipul |
-| 2110131220015 | MEYDA WIKAROMAH | https://github.com/MeydaWikaromah |
-| 2110131210002 | Khoyrur Roykhan | https://github.com/KhoyrurRoykhan |
-| 1810131220025 | SITI NUR HIDAYAH | https://github.com/dayahsnh |
-| 2110131210018 | Tio Ezekiel | https://github.com/ezkl-t |
-| 2110131310005 | M. ASPI RAIHAN | https://github.com/aspiraihan12 |
-| 2110131310002 | Khairul Fuad | https://github.com/khairulfuad09 |
-| 2110131310003 | FERZY TRIWARSANA PUTRA | https://github.com/ferzytriwarsanaputra |
-| 2110131210004 | M. GYMNASTIAR | https://github.com/Agim-dudu |
-| 2110131310005 | AQSHAL HIDAYAT YAHYA | https://github.com/Aqshalhy |
+| NIM | Nama | Link | Repo Tugas Sistem Operasi |
+| ----------- | :---------: | :---------- | ---------- |
+| 2110131310001 | Ari Yono | https://github.com/arie-zeno | https://github.com/arie-zeno/Tugas_Sistem_Operasi |
+| 2110131110003 | Ady Mutalib | https://github.com/adymutalib | https://github.com/adymutalib/Tugas_Sistem_Operasi |
+| 1710131310023 | MUHAMMAD ARYA FADILLAH | https://github.com/aryafdllh | https://github.com/aryafdllh/Tugas_Sistem_Operasi |
+| 2110131220017 | DIFANA NANDA PRIDHASILA ZEIN | https://github.com/nandaazein | https://github.com/nandaazein/Tugas_Sistem_Operasi |
+| 2110131110004 | SOPIA REFALDI | https://github.com/Srefaldi | https://github.com/Srefaldi/Tugas-Sistem-Operasi |
+| 2110131220008 | Risma Wulandari | https://github.com/RismaWulandarii | https://github.com/RismaWulandarii/Tugas_Sistem_Operasi |
+| 2110131120006 | Maysarah | https://github.com/maysraah | https://github.com/maysraah/Tugas_Sistem_Operasi |
+| 2110131210003 | Muhammad Ramadhani | https://github.com/Madhan215 | https://github.com/Madhan215/Tugas_Sistem_Operasi |
+| 2110131220020 | FATIMAH AZZAHRA MAULIDA | https://github.com/xsjtsra | https://github.com/xsjtsra/Tugas_Sistem_Operasi |
+| 2110131220001 | YULIANA | https://github.com/yuliana-ulm | https://github.com/yuliana-ulm/Tugas_Sistem_Operasi |
+| 2110131320006 | MAISYA PUSPITA SARI | https://github.com/maisyaapuspitaa | https://github.com/maisyaapuspitaa/Tugas_Sistem_Operasi |
+| 2110131220011 | EGYN TERESCOVA NADIA | https://github.com/egynnadia | https://github.com/egynnadia/Tugas_Sistem_Operasi |
+| 2110131220012 | Delphia Aryana | https://github.com/DelphiaAryana | https://github.com/DelphiaAryana/Tugas_Sistem_Operasi |
+| 2110131120002 | PUTRI TARI LESTARI | https://github.com/putritta06 | https://github.com/putritta06/Tugas_Sistem_Operasi |
+| 2110131310007 | MUHAMMAD RIZKY AL FARABI | https://github.com/rizkyfarabi03 | https://github.com/rizkyfarabi03/Tugas_Sistem_Operasi |
+| 2110131120008 | RISALATUL HUSNA | https://github.com/RisalatulHusna | https://github.com/RisalatulHusna/Tugas_Sistem_Operasi |
+| 2110131220016 | ALFIKA NURFADIA | https://github.com/AlfikaNurfadia | https://github.com/AlfikaNurfadia/Tugas_Sistem_Operasi |
+| 2110131210006 | WILLY NURGIAN | https://github.com/wil17 | https://github.com/wil17/Tugas_Sistem_Operasi |
+| 2110131220013 | Iif Alifah | https://github.com/IifAlifah | https://github.com/IifAlifah/Tugas_Sistem_Operasi |
+| 2110131120005 | JULITA HASANAH | https://github.com/JulitaHasanah | https://github.com/JulitaHasanah/Tugas_Sistem_Operasi |
+| 2110131210005 | MUHAMMAD NAJWAN NUR IMAN | https://github.com/NajwannurIman | https://github.com/NajwannurIman/Tugas_Sistem_Operasi |
+| 2110131320010 | ADELIA ERLYN NOR CANDRA PRASETYANA | https://github.com/adeliaerlyn | https://github.com/adeliaerlyn/Tugas_Sistem_Operasi |
+| 2110131220010 | SESILIA MIRANDA | https://github.com/sesiliamiranda | https://github.com/sesiliamiranda/Tugas_Sistem_Operasi |
+| 2110131320009 | Ana Maria Parasanti | https://github.com/anamria | https://github.com/anamria/Tugas_Sistem_Operasi |
+| 2110131120007 | Nurhaliza | https://github.com/nurhalizach | https://github.com/nurhalizach/Tugas_Sistem_Operasi |
+| 2110131220007 | Naila Hasanah | https://github.com/Nailahasanah | https://github.com/Nailahasanah/Tugas_Sistem_Operasi |
+| 2110131210014 | FIKRI AL FAYYEDH | https://github.com/FikriALFayyedh | https://github.com/FikriALFayyedh/Tugas_Sistem_Operasi |
+| 2010131210020 | AHMAD RAYHANSYAH | https://github.com/ReyhanNadie | https://github.com/ReyhanNadie/Tugas_Sistem_Operasi |
+| 2110131310008 | Saipul | https://github.com/SAIPUL21/saipul | https://github.com/SAIPUL21/saipul/Tugas_Sistem_Operasi |
+| 2110131220015 | MEYDA WIKAROMAH | https://github.com/MeydaWikaromah | https://github.com/MeydaWikaromah/Tugas_Sistem_Operasi |
+| 2110131210002 | Khoyrur Roykhan | https://github.com/KhoyrurRoykhan | https://github.com/KhoyrurRoykhan/Tugas_Sistem_Operasi |
+| 1810131220025 | SITI NUR HIDAYAH | https://github.com/dayahsnh | https://github.com/dayahsnh/Tugas_Sistem_Operasi |
+| 2110131210018 | Tio Ezekiel | https://github.com/ezkl-t | https://github.com/ezkl-t/Tugas_Sistem_Operasi |
+| 2110131310005 | M. ASPI RAIHAN | https://github.com/aspiraihan12 | https://github.com/aspiraihan12/Tugas_Sistem_Operasi |
+| 2110131310002 | Khairul Fuad | https://github.com/khairulfuad09 | https://github.com/khairulfuad09/Tugas_Sistem_Operasi |
+| 2110131310003 | FERZY TRIWARSANA PUTRA | https://github.com/ferzytriwarsanaputra | https://github.com/ferzytriwarsanaputra/Tugas_Sistem_Operasi |
+| 2110131210004 | M. GYMNASTIAR | https://github.com/Agim-dudu | https://github.com/Agim-dudu/Tugas_Sistem_Operasi |
+| 2110131310005 | AQSHAL HIDAYAT YAHYA | https://github.com/Aqshalhy | https://github.com/Aqshalhy/Tugas_Sistem_Operasi |
 
 
 
