@@ -25,7 +25,7 @@
 | 2110131220012 | Delphia Aryana | https://github.com/DelphiaAryana | https://github.com/DelphiaAryana/Tugas_Sistem_Operasi |
 | 2110131120002 | PUTRI TARI LESTARI | https://github.com/putritta06 | https://github.com/putritta06/my_repository/tree/master/SISTEM_OPERASI |
 | 2110131310007 | MUHAMMAD RIZKY AL FARABI | https://github.com/rizkyfarabi03 | https://github.com/rizkyfarabi03/Tugas_Sistem_Operasi |
-| 2110131120008 | RISALATUL HUSNA | https://github.com/RisalatulHusna | https://github.com/RisalatulHusna/Tugas_Sistem_Operasi |
+| 2110131120008 | RISALATUL HUSNA | https://github.com/RisalatulHusna | https://github.com/RisalatulHusna/Tugas_Sistem_Operasi.git |
 | 2110131220016 | ALFIKA NURFADIA | https://github.com/AlfikaNurfadia | https://github.com/AlfikaNurfadia/Tugas_Sistem_Operasi |
 | 2110131210006 | WILLY NURGIAN | https://github.com/wil17 | https://github.com/wil17/tugas_sistem_operasi_ |
 | 2110131220013 | Iif Alifah | https://github.com/IifAlifah | https://github.com/IifAlifah/Tugas_Sistem_Operasi |
